@@ -1,2 +1,1 @@
-https://travis-ci.com/AleksandrGurtovoy/HelloWorld
-
+https://travis-ci.com/AleksandrGurtovoy/HelloWorld.svg?branch=master
