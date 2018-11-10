@@ -1,4 +1,5 @@
-import app.UserData;
+package app;
+
 import org.junit.Test;
 
 import static org.junit.Assert.*;

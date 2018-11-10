@@ -1,5 +1,5 @@
-import app.Greetings;
-import app.UserData;
+package app;
+
 import org.junit.Before;
 import org.junit.Test;
 
