@@ -118,3 +118,50 @@
 10-11-2018 18:10:41 INFO  UserData:27 - Created app.UserData instance with locale:ru_RU and local time: 18!
 10-11-2018 18:10:41 INFO  UserData:27 - Created app.UserData instance with locale:ru_RU and local time: 18!
 10-11-2018 18:10:41 INFO  UserData:27 - Created app.UserData instance with locale:ru_RU and local time: 18!
+13-11-2018 15:36:17 INFO  UserData:27 - Created app.UserData instance with locale:ru_RU and local time: 15!
+13-11-2018 15:36:17 INFO  Greetings:54 - Validating locale is started..
+13-11-2018 15:36:17 INFO  Greetings:41 - Loading message for day greeting!
+14-11-2018 17:09:58 INFO  UserData:27 - Created app.UserData instance with locale:ru_RU and local time: 17!
+14-11-2018 17:09:58 INFO  Greetings:55 - Validating locale is started..
+14-11-2018 17:15:43 INFO  UserData:27 - Created app.UserData instance with locale:ru_RU and local time: 17!
+14-11-2018 17:15:43 INFO  Greetings:58 - Validating locale is started..
+14-11-2018 17:18:51 INFO  UserData:27 - Created app.UserData instance with locale:ru_RU and local time: 17!
+14-11-2018 17:18:51 INFO  Greetings:59 - Validating locale is started..
+14-11-2018 17:19:24 INFO  UserData:27 - Created app.UserData instance with locale:ru_RU and local time: 17!
+14-11-2018 17:19:24 INFO  Greetings:59 - Validating locale is started..
+14-11-2018 17:19:37 INFO  UserData:27 - Created app.UserData instance with locale:ru_RU and local time: 17!
+14-11-2018 17:19:37 INFO  Greetings:59 - Validating locale is started..
+14-11-2018 17:21:43 INFO  UserData:27 - Created app.UserData instance with locale:ru_RU and local time: 17!
+14-11-2018 17:21:43 INFO  Greetings:58 - Validating locale is started..
+14-11-2018 17:22:48 INFO  UserData:27 - Created app.UserData instance with locale:ru_RU and local time: 17!
+14-11-2018 17:22:48 INFO  Greetings:58 - Validating locale is started..
+14-11-2018 17:37:11 INFO  UserData:27 - Created app.UserData instance with locale:ru_RU and local time: 17!
+14-11-2018 17:37:11 INFO  Greetings:59 - Validating locale is started..
+14-11-2018 17:37:11 INFO  Greetings:46 - Loading message for day greeting!
+14-11-2018 17:39:02 INFO  UserData:27 - Created app.UserData instance with locale:ru_RU and local time: 17!
+14-11-2018 17:39:02 INFO  Greetings:59 - Validating locale is started..
+14-11-2018 17:39:02 INFO  Greetings:52 - Loading message for night greeting!
+14-11-2018 17:39:02 INFO  UserData:27 - Created app.UserData instance with locale:ru_RU and local time: 17!
+14-11-2018 17:39:02 INFO  Greetings:59 - Validating locale is started..
+14-11-2018 17:39:02 INFO  Greetings:46 - Loading message for day greeting!
+14-11-2018 17:39:02 INFO  UserData:27 - Created app.UserData instance with locale:ru_RU and local time: 17!
+14-11-2018 17:39:02 INFO  UserData:27 - Created app.UserData instance with locale:ru_RU and local time: 17!
+14-11-2018 17:39:02 INFO  Greetings:59 - Validating locale is started..
+14-11-2018 17:39:02 INFO  Greetings:59 - Validating locale is started..
+14-11-2018 17:39:02 INFO  UserData:27 - Created app.UserData instance with locale:ru_RU and local time: 17!
+14-11-2018 17:39:02 INFO  Greetings:59 - Validating locale is started..
+14-11-2018 17:39:02 INFO  Greetings:43 - Loading message for morning greeting!
+14-11-2018 17:39:02 INFO  UserData:27 - Created app.UserData instance with locale:ru_RU and local time: 17!
+14-11-2018 17:39:02 INFO  UserData:27 - Created app.UserData instance with locale:ru_RU and local time: 17!
+14-11-2018 17:39:02 INFO  Greetings:59 - Validating locale is started..
+14-11-2018 17:39:02 INFO  Greetings:49 - Loading message for evening greeting!
+14-11-2018 17:39:02 INFO  UserData:27 - Created app.UserData instance with locale:ru_RU and local time: 17!
+14-11-2018 17:39:02 INFO  Greetings:59 - Validating locale is started..
+14-11-2018 17:39:02 INFO  Greetings:46 - Loading message for day greeting!
+14-11-2018 17:39:02 INFO  UserData:27 - Created app.UserData instance with locale:ru_RU and local time: 17!
+14-11-2018 17:39:02 INFO  Greetings:59 - Validating locale is started..
+14-11-2018 17:39:02 INFO  UserData:27 - Created app.UserData instance with locale:ru_RU and local time: 17!
+14-11-2018 17:39:02 INFO  Greetings:59 - Validating locale is started..
+14-11-2018 17:39:02 INFO  UserData:27 - Created app.UserData instance with locale:ru_RU and local time: 17!
+14-11-2018 17:39:02 INFO  UserData:27 - Created app.UserData instance with locale:ru_RU and local time: 17!
+14-11-2018 17:39:02 INFO  UserData:27 - Created app.UserData instance with locale:ru_RU and local time: 17!

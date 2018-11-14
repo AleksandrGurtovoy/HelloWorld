@@ -1,8 +1,12 @@
 package app;
 
+import org.apache.commons.io.Charsets;
+import org.apache.commons.io.IOUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import java.io.File;
+import java.io.IOException;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Locale;
@@ -15,6 +19,7 @@ public class Greetings {
     /* Supported languages and default locale, if the customer locale not supported*/
     private static final List<String> supportedLanguages = Arrays.asList("ru", "en");
     private static final Locale defaultLocale = Locale.ENGLISH;
+
 
     public static void main(String[] args) {
         UserData userData = new UserData();
@@ -52,8 +57,11 @@ public class Greetings {
 
     public boolean validationLocale(UserData userData) {
         LOG.info("Validating locale is started..");
-        for (String lang : supportedLanguages) {
-            if (userData.getLocale().getLanguage().equalsIgnoreCase(lang)) {
+        File dir = new File("src/main/resources");
+        File[] arrFiles = dir.listFiles();
+        List<File> lst = Arrays.asList(arrFiles);
+        for (File file : lst) {
+            if (file.getName().contains("_" + userData.getLocale().getLanguage())) {
                 return true;
             }
         }
