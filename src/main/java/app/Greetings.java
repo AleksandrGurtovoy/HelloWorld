@@ -1,23 +1,18 @@
 package app;
 
-import org.apache.commons.io.Charsets;
-import org.apache.commons.io.IOUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import java.io.File;
-import java.io.IOException;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Locale;
 import java.util.ResourceBundle;
 
 public class Greetings {
-    /*Logger*/
+
     private static Logger LOG = LoggerFactory.getLogger(Greetings.class);
 
-    /* Supported languages and default locale, if the customer locale not supported*/
-    private static final List<String> supportedLanguages = Arrays.asList("ru", "en");
     private static final Locale defaultLocale = Locale.ENGLISH;
 
 

@@ -58,12 +58,6 @@ public class GreetingsTests {
     }
 
     @Test
-    public void test_getMessage_fallback() throws Exception {
-        userData.setLocale(Locale.CHINA);
-        assertEquals("Good day, World!", greeting.getMessage(userData));
-    }
-
-    @Test
     public void test_validationLocale() throws Exception {
         userData.setLocale(dLocale);
         assertTrue(greeting.validationLocale(userData));
